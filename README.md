@@ -43,6 +43,10 @@ All machines are connected using VMware NAT network in the same subnet:
 
 Check IP addresses:
 
+<img width="2649" height="1845" alt="Image" src="https://github.com/user-attachments/assets/a1c179da-8347-4762-b6de-882656598396" />
+
+
+
 ip a
 
 Test connectivity:
