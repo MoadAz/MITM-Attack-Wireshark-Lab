@@ -165,8 +165,6 @@ sudo arpspoof -i eth0 -t 192.168.244.131 192.168.244.128
 Filter:
 
 http  
-or  
-tcp.port == 80
 
 You will see:
 - HTTP GET requests
@@ -192,6 +190,10 @@ Host: 192.168.244.131
 Response:
 
 Cybersecurity MITM Lab
+
+Screenshot :
+<br>
+<img width="3390" height="1911" alt="Image" src="https://github.com/user-attachments/assets/d883813d-f408-4243-8934-a923ccc1034b" />
 
 ---
 
