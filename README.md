@@ -137,7 +137,7 @@ while true; do curl http://192.168.244.131; sleep 2; done
 echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
 <br>
 <br>
-<img width="2556" height="567" alt="Image" src="https://github.com/user-attachments/assets/500f0012-7094-4d81-8ab1-da4e0be13d4f" />
+<img width="2628" height="1833" alt="Image" src="https://github.com/user-attachments/assets/787fd8a1-23f8-4b6d-bae1-18e92e91ad5a" />
 <br>
 <br>
 
@@ -145,23 +145,15 @@ echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
 
 ## ARP Spoofing Attack
 
-Terminal 1:
+Terminal 1 & 2:
 
 sudo arpspoof -i eth0 -t 192.168.244.128 192.168.244.131
-<br>
-<br>
-<img width="2628" height="1833" alt="Image" src="https://github.com/user-attachments/assets/787fd8a1-23f8-4b6d-bae1-18e92e91ad5a" />
-<br>
-<br>
-
-Terminal 2:
-
-sudo arpspoof -i eth0 -t 192.168.244.131 192.168.244.128
 <br>
 <br>
 <img width="3393" height="1911" alt="Image" src="https://github.com/user-attachments/assets/47ca151c-a8f2-4360-82ad-a1baad094872" />
 <br>
 <br>
+
 ---
 
 ## Wireshark Analysis
