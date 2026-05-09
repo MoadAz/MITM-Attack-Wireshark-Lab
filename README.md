@@ -86,10 +86,6 @@ Add:
 
 ## HTTP Test
 
-On Fedora:
-
-curl http://localhost
-
 On Debian:
 
 curl http://192.168.244.131
@@ -97,6 +93,11 @@ curl http://192.168.244.131
 Expected output:
 
 Cybersecurity MITM Lab
+<br>
+<br>
+<img width="2424" height="243" alt="Image" src="https://github.com/user-attachments/assets/a6c4517a-eaba-4f02-9721-28e8247daeb7" />
+<br>
+<br>
 
 ---
 
@@ -110,7 +111,9 @@ Select interface:
 eth0
 
 Start capture.
-
+<img width="3390" height="1920" alt="Image" src="https://github.com/user-attachments/assets/6317ffb9-eb1f-4da4-a5e9-04f6f81d0eab" />
+<br>
+<br>
 ---
 
 ## Generate Traffic
