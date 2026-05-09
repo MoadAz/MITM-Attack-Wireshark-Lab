@@ -52,9 +52,9 @@ Check IP addresses with "ip a" :
 <img width="2715" height="1809" alt="Image" src="https://github.com/user-attachments/assets/d0c2f1cb-0ae7-4099-8027-0bcc166a41e2" />
 <br>
 <br>
-Test connectivity:
+Connectivity between Debian and Fedora:
 
-ping 192.168.244.131
+<img width="2460" height="675" alt="Image" src="https://github.com/user-attachments/assets/07666072-4cb6-4fc6-b0e8-7e630da8865b" />
 
 ---
 
