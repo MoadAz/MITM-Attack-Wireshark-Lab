@@ -53,7 +53,7 @@ Check IP addresses with "ip a" :
 <br>
 <br>
 Connectivity between Debian and Fedora:
-
+<br>
 <img width="2460" height="675" alt="Image" src="https://github.com/user-attachments/assets/07666072-4cb6-4fc6-b0e8-7e630da8865b" />
 
 ---
