@@ -75,7 +75,7 @@ sudo nano /var/www/html/index.html
 
 Add:
 
-<h1>Cybersecurity MITM Lab</h1>
+###<h1>Cybersecurity MITM Lab</h1>
 <br>
 <br>
 <img width="2430" height="327" alt="Image" src="https://github.com/user-attachments/assets/28063c65-ab1b-4df3-8bea-8881ba15235c" />
