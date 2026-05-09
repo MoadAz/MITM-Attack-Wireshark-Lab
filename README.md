@@ -61,23 +61,12 @@ Connectivity between Debian and Fedora:
 
 ## Apache Web Server Setup (Fedora)
 
-Install Apache:
-
-sudo dnf install httpd -y
-
-Start service:
-
-sudo systemctl start httpd
-
-Enable service:
-
-sudo systemctl enable httpd
-
-Allow HTTP traffic:
-
-sudo firewall-cmd --permanent --add-service=http  
-sudo firewall-cmd --reload
-
+Apache server configuration on Fedora :
+<br>
+<br>
+<img width="2583" height="633" alt="Image" src="https://github.com/user-attachments/assets/07f1268b-2471-4db9-8eb0-bb07cd2fbbfe" />
+<br>
+<br>
 ---
 
 ## Custom Web Page
