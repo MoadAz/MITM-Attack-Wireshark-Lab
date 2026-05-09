@@ -41,13 +41,15 @@ All machines are connected using VMware NAT network in the same subnet:
 
 ## Network Verification
 
-Check IP addresses:
+Check IP addresses with "ip a" :
 
 <img width="2649" height="1845" alt="Image" src="https://github.com/user-attachments/assets/a1c179da-8347-4762-b6de-882656598396" />
 
 
+<img width="2562" height="1674" alt="Image" src="https://github.com/user-attachments/assets/3ac9c992-5e9f-4028-82dd-b0043ae70515" />
 
-ip a
+
+<img width="2715" height="1809" alt="Image" src="https://github.com/user-attachments/assets/d0c2f1cb-0ae7-4099-8027-0bcc166a41e2" />
 
 Test connectivity:
 
